@@ -161,3 +161,4 @@ cython_debug/
 
 # Sound files
 *.wav
+!output/example.wav
